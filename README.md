@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### Economics-Statistics student at the University of Pittsburgh
 <!--
 **wmg10/wmg10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
